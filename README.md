@@ -1,5 +1,5 @@
 ## Hello There✌
-I'm Manu a Computer Science student interested in **data analytics** and **web development**.
+I'm Manu a Computer Science graduate interested in **data analytics** and **web development**.
 Puebla, Mexico
 <br>
 These two paths have captivated my attention due to their innovation and impact. 
